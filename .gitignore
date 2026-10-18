@@ -1,0 +1,10 @@
+**/~$*
+.idea
+.vscode
+.venv
+__pycache__
+.pytest_cache
+.benchmarks
+data/export
+cached_metrics.json
+cached_sample_data.json

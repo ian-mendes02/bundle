@@ -1,0 +1,24 @@
+[project]
+name = "bundle"
+description = ""
+version = "0.0.1"
+readme = "README.md"
+license = "BSD-3-Clause"
+requires-python = ">= 3.14"
+authors = [{ name = "Ian Mendes", email = "ianlucamendes02@gmail.com" }]
+maintainers = [{ name = "Ian Mendes", email = "ianlucamendes02@gmail.com" }]
+dependencies = [
+    "pydantic",
+    "fastapi",
+    "numpy",
+    "matplotlib",
+    "pyvista",
+    "pytest",
+    "pytest_benchmark",
+    "typer"
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+    ".", "src"
+]

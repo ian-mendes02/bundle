@@ -1,0 +1,212 @@
+[
+  {
+    "id": "P04",
+    "dimensions": {
+      "length": 16.0,
+      "width": 12.0,
+      "height": 4.0
+    },
+    "base_weight": 21.28,
+    "capacity": 1500
+  },
+  {
+    "id": "C08",
+    "dimensions": {
+      "length": 32.0,
+      "width": 12.0,
+      "height": 8.0
+    },
+    "base_weight": 51.52,
+    "capacity": 3000
+  },
+  {
+    "id": "C12",
+    "dimensions": {
+      "length": 32.0,
+      "width": 12.0,
+      "height": 12.0
+    },
+    "base_weight": 63.84,
+    "capacity": 3000
+  },
+  {
+    "id": "M08",
+    "dimensions": {
+      "length": 16.0,
+      "width": 24.0,
+      "height": 8.0
+    },
+    "base_weight": 49.28,
+    "capacity": 3000
+  },
+  {
+    "id": "M12",
+    "dimensions": {
+      "length": 16.0,
+      "width": 24.0,
+      "height": 12.0
+    },
+    "base_weight": 60.48,
+    "capacity": 4000
+  },
+  {
+    "id": "G08",
+    "dimensions": {
+      "length": 24.0,
+      "width": 32.0,
+      "height": 8.0
+    },
+    "base_weight": 85.12,
+    "capacity": 6000
+  },
+  {
+    "id": "G12",
+    "dimensions": {
+      "length": 24.0,
+      "width": 32.0,
+      "height": 12.0
+    },
+    "base_weight": 100.8,
+    "capacity": 9000
+  },
+  {
+    "id": "G16",
+    "dimensions": {
+      "length": 24.0,
+      "width": 32.0,
+      "height": 16.0
+    },
+    "base_weight": 116.48,
+    "capacity": 11000
+  },
+  {
+    "id": "G20",
+    "dimensions": {
+      "length": 24.0,
+      "width": 32.0,
+      "height": 20.0
+    },
+    "base_weight": 132.16,
+    "capacity": 14000
+  },
+  {
+    "id": "S04",
+    "dimensions": {
+      "length": 32.0,
+      "width": 48.0,
+      "height": 4.0
+    },
+    "base_weight": 129.92,
+    "capacity": 6000
+  },
+  {
+    "id": "S08",
+    "dimensions": {
+      "length": 32.0,
+      "width": 48.0,
+      "height": 8.0
+    },
+    "base_weight": 152.32,
+    "capacity": 11000
+  },
+  {
+    "id": "S12",
+    "dimensions": {
+      "length": 32.0,
+      "width": 48.0,
+      "height": 12.0
+    },
+    "base_weight": 174.72,
+    "capacity": 17000
+  },
+  {
+    "id": "S16",
+    "dimensions": {
+      "length": 32.0,
+      "width": 48.0,
+      "height": 16.0
+    },
+    "base_weight": 197.12,
+    "capacity": 22000
+  },
+  {
+    "id": "S20",
+    "dimensions": {
+      "length": 32.0,
+      "width": 48.0,
+      "height": 20.0
+    },
+    "base_weight": 219.52,
+    "capacity": 28000
+  },
+  {
+    "id": "S24",
+    "dimensions": {
+      "length": 32.0,
+      "width": 48.0,
+      "height": 24.0
+    },
+    "base_weight": 241.92,
+    "capacity": 30000
+  },
+  {
+    "id": "S28",
+    "dimensions": {
+      "length": 32.0,
+      "width": 48.0,
+      "height": 28.0
+    },
+    "base_weight": 264.32,
+    "capacity": 30000
+  },
+  {
+    "id": "H12",
+    "dimensions": {
+      "length": 64.0,
+      "width": 48.0,
+      "height": 12.0
+    },
+    "base_weight": 309.12,
+    "capacity": 30000
+  },
+  {
+    "id": "H20",
+    "dimensions": {
+      "length": 64.0,
+      "width": 48.0,
+      "height": 20.0
+    },
+    "base_weight": 371.84,
+    "capacity": 30000
+  },
+  {
+    "id": "H28",
+    "dimensions": {
+      "length": 64.0,
+      "width": 48.0,
+      "height": 28.0
+    },
+    "base_weight": 434.56,
+    "capacity": 30000
+  },
+  {
+    "id": "H32",
+    "dimensions": {
+      "length": 64.0,
+      "width": 48.0,
+      "height": 32.0
+    },
+    "base_weight": 465.92,
+    "capacity": 30000
+  },
+  {
+    "id": "H48",
+    "dimensions": {
+      "length": 64.0,
+      "width": 48.0,
+      "height": 48.0
+    },
+    "base_weight": 591.36,
+    "capacity": 30000
+  }
+]

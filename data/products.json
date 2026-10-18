@@ -1,0 +1,200 @@
+[
+  {
+    "sku": "PLP",
+    "name": "Pacote Leve (P)",
+    "dimensions": {
+      "length": 5.0,
+      "width": 5.0,
+      "height": 7.5
+    },
+    "weight": 82.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PLM",
+    "name": "Pacote Leve (M)",
+    "dimensions": {
+      "length": 7.5,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "weight": 128.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PLG",
+    "name": "Pacote Leve (G)",
+    "dimensions": {
+      "length": 20.0,
+      "width": 20.0,
+      "height": 30.0
+    },
+    "weight": 256.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PFLP",
+    "name": "Pacote Frágil Leve (P)",
+    "dimensions": {
+      "length": 5.0,
+      "width": 5.0,
+      "height": 7.5
+    },
+    "weight": 50.0,
+    "is_fragile": true
+  },
+  {
+    "sku": "PFLM",
+    "name": "Pacote Frágil Leve (M)",
+    "dimensions": {
+      "length": 7.5,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "weight": 100.0,
+    "is_fragile": true
+  },
+  {
+    "sku": "PFLG",
+    "name": "Pacote Frágil Leve (G)",
+    "dimensions": {
+      "length": 20.0,
+      "width": 20.0,
+      "height": 30.0
+    },
+    "weight": 200.0,
+    "is_fragile": true
+  },
+  {
+    "sku": "CPP",
+    "name": "Caixote Pesado (P)",
+    "dimensions": {
+      "length": 16.0,
+      "width": 16.0,
+      "height": 16.0
+    },
+    "weight": 256.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "CPM",
+    "name": "Caixote Pesado (M)",
+    "dimensions": {
+      "length": 24.0,
+      "width": 24.0,
+      "height": 24.0
+    },
+    "weight": 512.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "CPG",
+    "name": "Caixote Pesado (G)",
+    "dimensions": {
+      "length": 42.0,
+      "width": 42.0,
+      "height": 42.0
+    },
+    "weight": 1500.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PL2P",
+    "name": "Pacote Longo (P)",
+    "dimensions": {
+      "length": 16.0,
+      "width": 6.0,
+      "height": 5.0
+    },
+    "weight": 74.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PL2M",
+    "name": "Pacote Longo (M)",
+    "dimensions": {
+      "length": 30.0,
+      "width": 11.0,
+      "height": 8.0
+    },
+    "weight": 231.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PL2G",
+    "name": "Pacote Longo (G)",
+    "dimensions": {
+      "length": 64.0,
+      "width": 24.0,
+      "height": 24.0
+    },
+    "weight": 345.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PLP2",
+    "name": "Pacote Longo Pesado (P)",
+    "dimensions": {
+      "length": 32.0,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "weight": 300.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PL2PM",
+    "name": "Pacote Longo Pesado (M)",
+    "dimensions": {
+      "length": 48.0,
+      "width": 16.0,
+      "height": 16.0
+    },
+    "weight": 500.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PL2PG",
+    "name": "Pacote Longo Pesado (G)",
+    "dimensions": {
+      "length": 64.0,
+      "width": 24.0,
+      "height": 24.0
+    },
+    "weight": 1000.0,
+    "is_fragile": false
+  },
+  {
+    "sku": "PFPP",
+    "name": "Pacote Frágil Pesado (P)",
+    "dimensions": {
+      "length": 10.0,
+      "width": 10.0,
+      "height": 15.5
+    },
+    "weight": 300.0,
+    "is_fragile": true
+  },
+  {
+    "sku": "PFPM",
+    "name": "Pacote Frágil Pesado (M)",
+    "dimensions": {
+      "length": 20.0,
+      "width": 23.0,
+      "height": 22.5
+    },
+    "weight": 500.0,
+    "is_fragile": true
+  },
+  {
+    "sku": "PFPG",
+    "name": "Pacote Frágil Pesado (G)",
+    "dimensions": {
+      "length": 40.0,
+      "width": 20.0,
+      "height": 25.0
+    },
+    "weight": 1000.0,
+    "is_fragile": true
+  }
+]
